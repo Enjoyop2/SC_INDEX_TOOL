@@ -1,1 +1,8 @@
-
+"Name","GlobalID","Geometry","Texture","NormalMap","MaterialMap","EmissionMap","OpacityMap","CameraDistance","ViewportWidth","ViewportHeight","ParticleEffect3D","Environment","OutlineSize"
+"String","int","String","String","String","String","String","String","int","int","int","String","String","int"
+"Mortar Rocket",69000000,"sc3d/mortar_rocket_01.glb","sc3d/mortar_rocket_01_tex.sctx","sc3d/mortar_rocket_01_normal.sctx","sc3d/mortar_rocket_01_material.sctx",,,10000,225,225,"rocket_trail_01",,
+"Mortar Rocket 2",69000001,"sc3d/mortar_rocket_02.glb","sc3d/mortar_rocket_02_tex.sctx","sc3d/mortar_rocket_01_normal.sctx","sc3d/mortar_rocket_01_material.sctx",,,10000,225,225,"rocket_trail_01",,
+"Mortar Rocket 5",69000002,"sc3d/mortar_rocket_05.glb","sc3d/mortar_rocket_05_tex.sctx","sc3d/mortar_rocket_05_normal.sctx","sc3d/mortar_rocket_05_material.sctx",,,10000,225,225,"rocket_trail_01",,
+"April25_RRAltProjectile",69000003,"sc3d/april25_rrlb_altprojectile_geo.glb","sc3d/april25_rrlb_a.sctx","sc3d/april25_rrlb_n.sctx","sc3d/april25_rrlb_m.sctx",,,10000,128,128,,,
+"April25_RRProjectile",69000004,"sc3d/april25_rrlb_spear_geo.glb","sc3d/april25_rrlb_a.sctx","sc3d/april25_rrlb_n.sctx","sc3d/april25_rrlb_m.sctx",,,10000,280,280,,,
+"Firecracker Tower Projectile lvl1",69000005,"sc3d/merged_archer_scattershot_projectile_lvl1.glb","sc3d/merged_archer_scattershot_projectile_lvl1_tex.sctx","sc3d/merged_archer_scattershot_projectile_lvl1_normal.sctx","sc3d/merged_archer_scattershot_projectile_lvl1_material.sctx",,,10000,225,225,"ps_projectile_firecrackertower_trail",,

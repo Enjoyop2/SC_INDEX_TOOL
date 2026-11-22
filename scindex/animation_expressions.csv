@@ -1,0 +1,3 @@
+"Name","GlobalID","Inherit","AnimType","AnimationBeginExpression","AnimationExpression","AnimationEndExpression"
+"String","int","String","String","String","String","String"
+"ShootingBuilding",118000000,,"attack",,,
